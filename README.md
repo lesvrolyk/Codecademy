@@ -1,2 +1,2 @@
 # Codecademy
-Repository of Codecademy Assignments
+Kiva Project 
